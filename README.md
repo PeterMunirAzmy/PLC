@@ -26,7 +26,7 @@
   </ul>
 
   <h2 id="usage">Usage</h2>
-  <p>It use to simulate and programe production lines using PLC without needing to buy the hardware </p>
+  <p>You can simulate and program production lines using PLCs without the need to purchase physical hardware.</p>
 
 
 
